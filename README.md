@@ -19,3 +19,9 @@ npm install --save mongodb
 ### Intro
 
 Menciptakan koneksi database
+
+## 182. Finishing the Database Connection
+
+### Intro
+
+Menyelesaikan koneksi database
