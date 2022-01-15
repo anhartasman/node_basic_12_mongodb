@@ -31,3 +31,9 @@ Menyelesaikan koneksi database
 ### Intro
 
 Menggunakan konseksi database
+
+## 184. Creating Products
+
+### Intro
+
+Membuat data produk
