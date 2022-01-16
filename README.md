@@ -70,6 +70,12 @@ Mengerjakan model produk untuk mengubah data
 
 ## 190. Finishing the "Update Product" Code
 
-## Intro
+### Intro
 
 Menyelesaikan kodingan update produk
+
+## 191. One Note About Updating Products
+
+### Intro
+
+Catatan tentang update produk
