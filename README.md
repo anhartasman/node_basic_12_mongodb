@@ -55,3 +55,9 @@ https://www.mongodb.com/products/compass
 ### Intro
 
 Mengambil data satu produk
+
+## 188. Making the "Edit" & "Delete" Buttons Work Again
+
+### Intro
+
+Membuat tombol edit dan delete berfungsi lagi
