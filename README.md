@@ -85,3 +85,9 @@ Catatan tentang update produk
 ### Intro
 
 Menghapus produk
+
+## 193. Fixing the "Add Product" Functionality
+
+### Intro
+
+Memperbaiki bug tambah produk
