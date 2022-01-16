@@ -30,7 +30,7 @@ exports.getEditProduct = (req, res, next) => {
   const prodId = req.params.productId;
   req.user
     .getProducts({ where: { id: prodId } })
-    // Product.findByPk(prodId)
+    // Product.findById(prodId)
     .then((products) => {
       const product = products[0];
       res.render("admin/edit-product", {
@@ -51,7 +51,7 @@ exports.postEditProduct = (req, res, next) => {
   const price = req.body.price;
   const description = req.body.description;
 
-  Product.findByPk(prodId)
+  Product.findById(prodId)
     .then((product) => {
       product.title = title;
       product.price = price;
@@ -81,7 +81,7 @@ exports.getProducts = (req, res, next) => {
 
 exports.postDeleteProduct = (req, res, next) => {
   const prodId = req.body.productId;
-  Product.findByPk(prodId)
+  Product.findById(prodId)
     .then((product) => {
       return product.destroy();
     })

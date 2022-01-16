@@ -49,3 +49,9 @@ Mengambil semua data produk
 ## Mongodb Compass
 
 https://www.mongodb.com/products/compass
+
+## 187. Fetching a Single Product
+
+### Intro
+
+Mengambil data satu produk
