@@ -61,3 +61,9 @@ Mengambil data satu produk
 ### Intro
 
 Membuat tombol edit dan delete berfungsi lagi
+
+## 189. Working on the Product Model to Edit our Product
+
+### Intro
+
+Mengerjakan model produk untuk mengubah data
