@@ -79,3 +79,9 @@ Menyelesaikan kodingan update produk
 ### Intro
 
 Catatan tentang update produk
+
+## 192. Deleting Products
+
+### Intro
+
+Menghapus produk
