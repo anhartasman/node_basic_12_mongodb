@@ -67,3 +67,9 @@ Membuat tombol edit dan delete berfungsi lagi
 ### Intro
 
 Mengerjakan model produk untuk mengubah data
+
+## 190. Finishing the "Update Product" Code
+
+## Intro
+
+Menyelesaikan kodingan update produk
