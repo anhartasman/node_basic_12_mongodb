@@ -37,3 +37,15 @@ Menggunakan konseksi database
 ### Intro
 
 Membuat data produk
+
+## 186. Fetching All Products
+
+### Intro
+
+Mengambil semua data produk
+
+# Link
+
+## Mongodb Compass
+
+https://www.mongodb.com/products/compass
