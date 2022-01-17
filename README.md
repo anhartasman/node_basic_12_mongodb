@@ -139,3 +139,9 @@ Memperbaiki bug tambah keranjang
 ### Intro
 
 Menghapus item keranjang
+
+## 202. Adding an Order
+
+### Intro
+
+Membuat data order

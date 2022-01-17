@@ -86,6 +86,27 @@ class User {
       .catch((err) => console.log(err));
   }
 
+  addOrder() {
+    const db = getDb();
+    return db
+      .collection("orders")
+      .insertOne(this.cart)
+      .then((result) => {
+        this.cart = { items: [] };
+        return db
+          .collection("users")
+          .updateOne(
+            { _id: new ObjectId(this._id) },
+            { $set: { cart: { items: [] } } }
+          )
+          .then((result) => {
+            console.log(result);
+          })
+          .catch((err) => console.log(err));
+      })
+      .catch((err) => console.log(err));
+  }
+
   static findById(userId) {
     const db = getDb();
     return db
