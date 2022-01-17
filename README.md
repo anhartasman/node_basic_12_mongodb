@@ -115,3 +115,9 @@ Mengerjakan item keranjang dan lainnya
 ### Intro
 
 Menambahkan fitur add to cart
+
+## 198. Storing Multiple Products in the Cart
+
+### Intro
+
+Menyimpan banyak produk di keranjang
