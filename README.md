@@ -121,3 +121,9 @@ Menambahkan fitur add to cart
 ### Intro
 
 Menyimpan banyak produk di keranjang
+
+## 199. Displaying the Cart Items
+
+### Intro
+
+Menampilkan item belanjaan
