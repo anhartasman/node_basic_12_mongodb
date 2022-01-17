@@ -127,3 +127,9 @@ Menyimpan banyak produk di keranjang
 ### Intro
 
 Menampilkan item belanjaan
+
+## 200. Fixing a Bug
+
+### Intro
+
+Memperbaiki bug tambah keranjang
