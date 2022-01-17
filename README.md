@@ -133,3 +133,9 @@ Menampilkan item belanjaan
 ### Intro
 
 Memperbaiki bug tambah keranjang
+
+## 201. Deleting Cart Items
+
+### Intro
+
+Menghapus item keranjang
