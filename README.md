@@ -97,3 +97,9 @@ Memperbaiki bug tambah produk
 ### Intro
 
 Membuat user baru
+
+## 195. Storing the User in our Database
+
+### Intro
+
+Menyimpan user id ketika menambah produk
