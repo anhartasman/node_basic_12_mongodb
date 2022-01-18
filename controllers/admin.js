@@ -56,7 +56,14 @@ exports.postEditProduct = (req, res, next) => {
   const price = req.body.price;
   const description = req.body.description;
 
-  const product = new Product();
+  const product = new Product(
+    title,
+    price,
+    description,
+    imageUrl,
+    prodId,
+    req.user._id
+  );
   product.title = title;
   product.price = price;
   product.description = description;

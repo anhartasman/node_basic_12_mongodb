@@ -151,3 +151,9 @@ Membuat data order
 ### Intro
 
 Menambah relasi data order
+
+## 204. Getting Orders
+
+### Intro
+
+Mengambil data orderan
